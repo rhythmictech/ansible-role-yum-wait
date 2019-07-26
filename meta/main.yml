@@ -1,0 +1,26 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: smiller171
+  description: Wait for yum lock to release
+  issue_tracker_url: https://github.com/rhythmictech/ansible-role-yum-wait/issues
+  company: "Rhythmic Technologies, Inc"
+  license: "license (MIT)"
+  min_ansible_version: 1.6
+  platforms:
+    - name: EL
+      versions:
+        - all
+    - name: Fedora
+      versions:
+        - all
+    - name: Amazon
+      versions:
+        - all
+    - name:
+  galaxy_tags:
+    - system
+    - server
+    - packaging
+    - tools
